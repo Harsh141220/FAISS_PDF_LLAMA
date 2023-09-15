@@ -4,3 +4,4 @@ streamlit
 langchain
 openai
 replicate
+sentence-transformers
