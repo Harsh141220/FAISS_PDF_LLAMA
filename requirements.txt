@@ -1,8 +1,7 @@
 python-dotenv
 PyPDF2
-streamlit
 langchain
-openai
-replicate
-sentence-transformers
-faiss-gpu
+openai 
+replicate 
+faiss-gpu  
+transformers
